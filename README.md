@@ -1,7 +1,6 @@
 👋 Hi, I’m Li Ko!
 
-I have been working in the Education field for about 5 years and I enjoy every moment of it. 
-
+I have been working in the Education field for about 5 years and I enjoy every moment of it. \
 I usually spend my free time learning a new skill.
 
 Things I'm working on at the moment:
